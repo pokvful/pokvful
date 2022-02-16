@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tim</h1>
-<h3 align="center">A passionate backend developer from The Netherlands</h3>
+<h3 align="center">A passionate backend developer from The Netherlands 🇳🇱</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/tim-meuwsen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tim meuwsen" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tim-meuwsen-6831aa193/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tim meuwsen" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
