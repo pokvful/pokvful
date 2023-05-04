@@ -10,6 +10,6 @@
 </p>
 
 <h2 align="center">📊GitHub Stats</h2>
-<p align="center">
+
   <img src="https://github-readme-stats.vercel.app/api/toplangs/username=pokvful&layout=compact&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB"/>
-</p>
+
