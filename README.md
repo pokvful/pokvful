@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Tim</h1>
-<p align="center">A passionate software developer from The Netherlands 🇳🇱</p>
+<h3> align="center">A passionate software developer from The Netherlands 🇳🇱</h3>
   
 <h2 align="center">💻Tech Stack</h2>
 <p align="center">
